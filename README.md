@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Computer Science Student at Universidade Federal de Alagoas and have been working with Web Programming focused on Back-end development, interested in education and getting new experiences.
+:man_technologist: I'm a Computer Science student at Universidade Federal de Alagoas and have been working with Web Programming focused on Back-end development, interested in education and getting new experiences.
 
 ## 🔭Technologies i'm using
 
