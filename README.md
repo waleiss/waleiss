@@ -13,5 +13,5 @@
 
 ## 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/wallacelins" target="_blank">
+<a href="https://www.linkedin.com/in/wallace-lins" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
